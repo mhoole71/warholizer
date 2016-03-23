@@ -1,7 +1,8 @@
-﻿You need to install graphicsmagic:
+You need to install graphicsmagic:
 
 sudo apt-get install graphicsmagick
 
+================================
 Known bugs
 =========
 Directories are hard coded into the program
